@@ -70,6 +70,6 @@ I am an **Experienced Full-Stack Software Engineer** specializing in **MERN** an
 
 - **LinkedIn**: [Akshay Pariyar](http://linkedin.com/in/akshay-pariyar-892202145)  
 - **GitHub**: [Akarami000](https://github.com/Akarami000)  
-- **Portfolio**: [Your Portfolio Link] (optional if available)  
+
 
 ---
